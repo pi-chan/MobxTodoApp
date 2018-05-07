@@ -11,6 +11,7 @@
     "mobx": "^4.2.0",
     "mobx-persist": "^0.4.1",
     "mobx-react": "^5.1.2",
+    "mobx-remotedev": "github:crayonzx/mobx-remotedev#mobx4",
     "react": "16.3.1",
     "react-native": "0.55.3"
   },
