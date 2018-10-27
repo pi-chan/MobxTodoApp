@@ -35,3 +35,7 @@ export default class App extends Component<Props> {
   }
 }
 
+
+const dummy = 'dummy text';
+debugger;
+console.log(dummy);
